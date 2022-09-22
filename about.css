@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(30, 30, 31);
+}
+header {
+  position: static;
+}
+#page {
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  margin: 0px auto;
+  padding: 20px;
+}
